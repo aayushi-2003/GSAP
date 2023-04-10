@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+
+.panel{
+    height: 100vh;
+    background-color: pink;
+}
+
+.red{
+    background-color: red;
+}
